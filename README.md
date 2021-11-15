@@ -4,7 +4,7 @@
 
 # Status
 
-![sync::biketag-app#production](https://github.com/biketagorg/biketag-app/workflows/sync::biketag-app%23production/badge.svg)
+![sync::biketag-api#production](https://github.com/biketagorg/biketag-api/workflows/sync::biketag-api%23production/badge.svg)
 
 </p>
 
@@ -27,6 +27,6 @@ https://biketag.org
 
 # Development
 
-For issues, discussions, and active development on this project visit [the Origin repository](https://github.com/KenEucker/biketag-app) where this software is being maintained.
+For issues, discussions, and active development on this project visit [the Origin repository](https://github.com/KenEucker/biketag-api) where this software is being maintained.
 
 </p>
